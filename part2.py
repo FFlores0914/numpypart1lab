@@ -20,3 +20,4 @@ promedio_edad_no_perecieron = int(round(df_no_perecieron['age'].mean()))
 
 print("Promedio de edades de personas que perecieron:", promedio_edad_perecieron)
 print("Promedio de edades de personas que no perecieron:", promedio_edad_no_perecieron)
+
